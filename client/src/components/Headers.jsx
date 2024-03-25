@@ -7,7 +7,7 @@ export default function Headers() {
           <h1 className="font-bold">Auth App</h1>
         </Link>
         <ul className="flex gap-4">
-          <Link to="/home">
+          <Link to="/hsome">
             <li>Home</li>
           </Link>
           <Link to="/about">
